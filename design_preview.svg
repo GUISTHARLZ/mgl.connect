@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="700" viewBox="0 0 1280 700">
+<defs>
+  <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#101a2c"/></linearGradient>
+  <linearGradient id="btn" x2="1"><stop stop-color="#6aa6a8"/><stop offset="1" stop-color="#25595d"/></linearGradient>
+  <filter id="shadow" x="-30%" y="-20%" width="160%" height="160%"><feDropShadow dx="0" dy="12" stdDeviation="13" flood-color="#000" flood-opacity=".42"/></filter>
+  <style>text{font-family:Inter,Roboto,Arial,sans-serif;fill:#f4f6fa}.muted{fill:#9da9bb}.small{font-size:10px}.tiny{font-size:8px}.label{font-size:11px;font-weight:700;letter-spacing:1.7px;fill:#82b8b9}.phone{fill:#050810;stroke:#df8052;stroke-width:2}.screen{fill:#0c152a}.card{fill:#17233b;stroke:#2a3953;stroke-width:1}.field{fill:#29354e;stroke:#3a4760;stroke-width:1}</style>
+</defs>
+<rect width="1280" height="700" fill="url(#bg)"/>
+<text x="640" y="47" text-anchor="middle" font-size="25" font-weight="700">M.G.L CONNECT</text>
+<text x="640" y="70" text-anchor="middle" class="muted" font-size="12">Aplicativo do motorista · MVP de entregas</text>
+<text x="210" y="112" text-anchor="middle" class="label">01 / LOGIN</text><text x="640" y="112" text-anchor="middle" class="label">02 / MINHAS ENTREGAS</text><text x="1070" y="112" text-anchor="middle" class="label">03 / DETALHES DA ENTREGA</text>
+
+<g filter="url(#shadow)"><rect class="phone" x="78" y="128" width="264" height="522" rx="38"/><rect class="screen" x="86" y="136" width="248" height="506" rx="31"/><rect x="173" y="144" width="74" height="18" rx="9" fill="#03050b"/></g>
+<text x="105" y="164" class="tiny muted">9:41</text><text x="315" y="164" text-anchor="end" class="tiny muted">● ◔ ▰</text>
+<path d="M132 231l15-9 15 9v18l-15 9-15-9z" fill="#dce7eb"/><path d="M139 235l8-5 8 5v10l-8 5-8-5z" fill="#0c152a"/><path d="M144 238l3-2 4 2v4l-4 2-3-2z" fill="#79b6b6"/>
+<text x="171" y="245" font-size="17" font-weight="600" letter-spacing=".7">M.G.L CONNECT</text>
+<text x="112" y="303" font-size="21" font-weight="700">Acesse sua conta</text><text x="112" y="325" class="small muted">Entre para consultar suas entregas de hoje.</text>
+<rect class="field" x="108" y="353" width="188" height="50" rx="10"/><circle cx="128" cy="377" r="7" fill="none" stroke="#aeb8c7" stroke-width="1.5"/><path d="M117 393q1-10 11-10t11 10" fill="none" stroke="#aeb8c7" stroke-width="1.5"/><text x="146" y="381" font-size="13" fill="#c8ced8">Usuário</text>
+<rect class="field" x="108" y="420" width="188" height="50" rx="10"/><rect x="120" y="438" width="15" height="13" rx="3" fill="none" stroke="#aeb8c7" stroke-width="1.5"/><path d="M123 438v-4a4.5 4.5 0 0 1 9 0v4" fill="none" stroke="#aeb8c7" stroke-width="1.5"/><text x="146" y="449" font-size="13" fill="#c8ced8">Senha</text><path d="M272 442q8 8 0 16m4-8h-8" fill="none" stroke="#aeb8c7" stroke-width="1.2"/>
+<rect x="108" y="497" width="188" height="50" rx="11" fill="url(#btn)"/><text x="202" y="528" text-anchor="middle" font-size="16" font-weight="700">Entrar</text><text x="210" y="581" text-anchor="middle" class="tiny muted">M.G.L Connect · Área do motorista</text>
+
+<g filter="url(#shadow)"><rect class="phone" x="508" y="128" width="264" height="522" rx="38"/><rect class="screen" x="516" y="136" width="248" height="506" rx="31"/><rect x="603" y="144" width="74" height="18" rx="9" fill="#03050b"/></g>
+<text x="535" y="164" class="tiny muted">9:41</text><text x="745" y="164" text-anchor="end" class="tiny muted">● ◔ ▰</text><text x="535" y="202" font-size="19" font-weight="700">Minhas entregas</text><text x="535" y="223" class="small muted">Olá, Carlos</text>
+<rect class="card" x="532" y="239" width="216" height="63" rx="13"/><rect x="544" y="250" width="40" height="40" rx="11" fill="#263b4a"/><path d="M554 261h20v16h-20zM558 258h12v3h-12z" fill="none" stroke="#79b6b6" stroke-width="1.6"/><text x="595" y="264" font-size="12" font-weight="600">4 pedidos na sua lista</text><text x="595" y="282" class="small muted">1 entregue</text>
+<text x="535" y="328" font-size="14" font-weight="700">Entregas atribuídas</text>
+<rect class="card" x="532" y="342" width="216" height="72" rx="12"/><text x="546" y="361" font-size="10" font-weight="700" fill="#79b6b6">Pedido ABC-123</text><text x="546" y="379" font-size="12" font-weight="600">Mariana Costa</text><rect x="546" y="388" width="68" height="17" rx="8" fill="#4c3b25"/><circle cx="555" cy="396" r="3" fill="#ffc76a"/><text x="562" y="399" font-size="8" fill="#ffc76a">Pendente</text>
+<rect class="card" x="532" y="421" width="216" height="72" rx="12"/><text x="546" y="440" font-size="10" font-weight="700" fill="#79b6b6">Pedido ABC-124</text><text x="546" y="458" font-size="12" font-weight="600">Rafael Mendes</text><rect x="546" y="467" width="93" height="17" rx="8" fill="#223d56"/><circle cx="555" cy="475" r="3" fill="#8ec8ff"/><text x="562" y="478" font-size="8" fill="#8ec8ff">Em transporte</text>
+<rect class="card" x="532" y="500" width="216" height="72" rx="12"/><text x="546" y="519" font-size="10" font-weight="700" fill="#79b6b6">Pedido ABC-125</text><text x="546" y="537" font-size="12" font-weight="600">Cláudia Ribeiro</text><rect x="546" y="546" width="68" height="17" rx="8" fill="#4c3b25"/><circle cx="555" cy="554" r="3" fill="#ffc76a"/><text x="562" y="557" font-size="8" fill="#ffc76a">Pendente</text>
+<text x="640" y="610" text-anchor="middle" class="tiny muted">Toque em um pedido para ver os detalhes</text>
+
+<g filter="url(#shadow)"><rect class="phone" x="938" y="128" width="264" height="522" rx="38"/><rect class="screen" x="946" y="136" width="248" height="506" rx="31"/><rect x="1033" y="144" width="74" height="18" rx="9" fill="#03050b"/></g>
+<text x="965" y="164" class="tiny muted">9:41</text><text x="1175" y="164" text-anchor="end" class="tiny muted">● ◔ ▰</text><path d="M967 192l-7 7 7 7" fill="none" stroke="#f4f6fa" stroke-width="1.8"/><text x="984" y="203" font-size="16" font-weight="700">Detalhes da entrega</text>
+<text x="966" y="236" font-size="10" font-weight="700" fill="#79b6b6">PEDIDO ABC-123</text><text x="966" y="257" font-size="17" font-weight="700">Mariana Costa</text>
+<rect class="card" x="962" y="271" width="216" height="68" rx="12"/><text x="975" y="290" class="tiny muted">⌖ ENDEREÇO DE DESTINO</text><text x="975" y="308" font-size="9">Rua das Palmeiras, 123 - Centro,</text><text x="975" y="323" font-size="9">Santos - SP, CEP 11010-000</text>
+<rect class="card" x="962" y="348" width="216" height="47" rx="12"/><text x="975" y="367" class="tiny muted">STATUS ATUAL</text><rect x="975" y="374" width="66" height="15" rx="7" fill="#4c3b25"/><circle cx="984" cy="381" r="3" fill="#ffc76a"/><text x="991" y="384" font-size="8" fill="#ffc76a">Pendente</text>
+<text x="966" y="423" font-size="13" font-weight="700">Atualizar status</text>
+<rect class="card" x="962" y="434" width="216" height="31" rx="9"/><circle cx="980" cy="449" r="6" fill="none" stroke="#79b6b6" stroke-width="1.5"/><circle cx="980" cy="449" r="3" fill="#79b6b6"/><text x="994" y="453" font-size="10">Pendente</text>
+<rect class="card" x="962" y="470" width="216" height="31" rx="9"/><circle cx="980" cy="485" r="6" fill="none" stroke="#8290a4" stroke-width="1.5"/><text x="994" y="489" font-size="10">Em transporte</text>
+<rect class="card" x="962" y="506" width="216" height="31" rx="9"/><circle cx="980" cy="521" r="6" fill="none" stroke="#8290a4" stroke-width="1.5"/><text x="994" y="525" font-size="10">Entregue</text>
+<rect x="962" y="548" width="216" height="40" rx="10" fill="url(#btn)"/><text x="1070" y="573" text-anchor="middle" font-size="12" font-weight="700">Atualizar status</text><text x="1070" y="612" text-anchor="middle" class="tiny muted">Confirmação antes de salvar</text>
+<text x="640" y="680" text-anchor="middle" class="tiny muted">Interface demonstrativa · pedidos e endereços fictícios</text>
+</svg>

@@ -1,0 +1,12 @@
+# General
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+# Android
+android/.gradle/
+android/local.properties
+# Widget Preview related
+.widget_preview/
